@@ -1,3 +1,3 @@
 public class Gita{
-    int a = 2;
+    int ab = 2;
 }
